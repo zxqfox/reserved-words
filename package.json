@@ -34,5 +34,8 @@
     "lib",
     "README.md",
     "LICENSE"
-  ]
+  ],
+  "engines": {
+      "node": ">= 8"
+  }
 }
